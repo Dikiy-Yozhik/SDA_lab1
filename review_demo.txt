@@ -1,3 +1,2 @@
 Review example
-This file is prepared for code review.
-tg_bot key: 79865fsdg6rt15ert68
+This file demonstrates the review workflow in GitHub.
